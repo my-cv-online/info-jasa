@@ -1,0 +1,6 @@
+# robots.txt untuk Digital Identity Lab
+User-agent: *
+Allow: /
+
+# Arahkan robot ke sitemap agar indeksasi lebih cepat
+Sitemap: https://my-cv-online.github.io/portfolio-model/sitemap.xml
